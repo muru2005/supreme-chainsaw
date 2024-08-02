@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1715836214 source:d:\c project\food delivery system\murari.c
+
+1718898591 source:d:\c project\food delivery system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"customerlogin.h"
+	"customerlogin.c"
+	"restaurantlogs.c"
+	"restaurantlogs.h"
+	"menualter.c"
+	"menualter.h"
+	"Dispmap.c"
+	"Dispmap.h"
+	"RF1.c"
+	"RF1.h"
+	"cartitem.c"
+	"cartitem.h"
+	"payment.c"
+	"payment.h"
+	"feedback.h"
+	"feedback.c"
+	"delivery.c"
+	"delivery.h"
+	"deliverylogin.c"
+	"deliverylogin.h"
+
+1718869304 d:\c project\food delivery system\customerlogin.h
+
+1718869304 d:\c project\food delivery system\customerlogin.c
+	<stdio.h>
+	<string.h>
+	"customerlogin.h"
+	"structures.h"
+
+1718898751 d:\c project\food delivery system\structures.h
+
+1718599178 d:\c project\food delivery system\restaurantlogs.c
+	<stdio.h>
+	<string.h>
+	"restaurantlogs.h"
+	"structures.h"
+
+1718476111 d:\c project\food delivery system\restaurantlogs.h
+
+1718898591 d:\c project\food delivery system\menualter.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menualter.h"
+	"structures.h"
+
+1717522228 d:\c project\food delivery system\menualter.h
+
+1717566061 d:\c project\food delivery system\dispmap.c
+	<stdio.h>
+	<stdlib.h>
+	"Dispmap.h"
+	"structures.h"
+
+1717521350 d:\c project\food delivery system\dispmap.h
+
+1718521753 d:\c project\food delivery system\rf1.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"RF1.h"
+	"structures.h"
+
+1718521763 d:\c project\food delivery system\rf1.h
+
+1718900556 d:\c project\food delivery system\cartitem.c
+	<stdio.h>
+	<string.h>
+	"cartitem.h"
+	"structures.h"
+	"reccomendation2.h"
+
+1718508042 d:\c project\food delivery system\cartitem.h
+
+1718561566 d:\c project\food delivery system\payment.c
+	<stdio.h>
+	<string.h>
+	"payment.h"
+	"structures.h"
+
+1717574207 d:\c project\food delivery system\payment.h
+
+1717597447 d:\c project\food delivery system\feedback.h
+
+1718595427 d:\c project\food delivery system\feedback.c
+	<stdio.h>
+	<string.h>
+	"feedback.h"
+	"structures.h"
+
+1718900073 source:d:\c project\food delivery system\reccomndation2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+	"reccomendation2.h"
+
+1718900089 d:\c project\food delivery system\reccomendation2.h
+
+1717754067 d:\c project\food delivery system\reccomndation2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+	"reccomendation2.h"
+
+1718623356 source:d:\c project\food delivery system\deliverylogin.c
+	<stdio.h>
+	<string.h>
+	"structures.h"
+	"deliverylogin.h"
+
+1718725415 d:\c project\food delivery system\deliverylogin.h
+
+1718869304 d:\c project\food delivery system\deliverylogin.c
+	<stdio.h>
+	<string.h>
+	"structures.h"
+	"deliverylogin.h"
+
+1718630529 source:d:\c project\food delivery system\delivery.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"structures.h"
+	"delivery.h"
+
+1718630512 d:\c project\food delivery system\delivery.h
+
+1718872315 d:\c project\food delivery system\delivery.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"structures.h"
+	"delivery.h"
+

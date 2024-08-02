@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+BK1,Burger,Classic Beef Burger,180.7,4.5,550,0,10,1
+BK2,Burger,Grilled Chicken Burger,200.1,4.7,600,0,9,1
+BK3,Burger,Veggie Supreme Burger,150.8,4.6,500,1,8,1
+BK4,Burger,Double Bacon Burger,220.3,4.8,650,0,7,1
+BK5,Burger,Mushroom Swiss Burger,190.7,4.4,600,1,6,1
+BK6,Side,French Fries,80.5,4.3,300,1,8,2
+BK7,Side,Onion Rings,100.2,4.2,350,1,9,2
+BK8,Side,Cheese Fries,120.9,4.5,400,1,6,2
+BK9,Side,Garlic Parmesan Fries,130.9,4.4,380,1,8,2
+BK10,Side,Sweet Potato Fries,140.5,4.6,350,1,9,2
+BK11,Beverage,Cola,60.3,4,200,1,7,3
+BK12,Beverage,Lemonade,70.2,4.2,180,1,6,3
+BK13,Beverage,Iced Tea,80.4,4.1,220,1,8,3
+BK14,Beverage,Milkshake,120.1,4.5,300,1,9,3
+BK15,Beverage,Orange Juice,90.7,4.3,250,1,11,3
+BK16,Dessert,Classic Chocolate Shake,140.6,4.6,350,1,12,4
+BK17,Dessert,Oreo Cookie Sundae,170.3,4.7,400,1,13,4
+BK18,Dessert,Caramel Brownie Sundae,160.7,4.5,380,1,11,4
+BK19,Dessert,New York Cheesecake,150.4,4.4,320,1,10,4
+BK20,Dessert,Apple Pie,130.9,4.3,300,1,9,4

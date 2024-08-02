@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+EF1,Starter,Greek Salad,55.3,4.46,190,1,18,1
+EF2,Starter,Veggie Spring Rolls,65.1,4.33,200,1,15,1
+EF3,Starter,Edamame,50.2,4.52,180,1,13,1
+EF4,Starter,Sweet Potato Wedges,45.6,4.23,170,1,13,1
+EF5,Starter,Quinoa Avocado Salad,70.4,4.6,210,1,15,1
+EF6,Main,Grilled Salmon,200.8,4.71,380,0,12,2
+EF7,Main,Tofu Stir Fry,120.6,4.39,320,1,7,2
+EF8,Main,Chicken Wrap,150.6,4.47,350,0,8,2
+EF9,Main,Quinoa Bowl,180.8,4.52,400,1,6,2
+EF10,Main,Falafel Wrap,130.5,4.31,300,1,15,2
+EF11,Smoothie,Green Smoothie,90.9,4.4,250,1,9,3
+EF12,Smoothie,Berry Blast Smoothie,85.3,4.49,240,1,15,3
+EF13,Smoothie,Tropical Paradise Smoothie,95.2,4.53,260,1,10,3
+EF14,Wrap,Chicken Caesar Wrap,110.4,4.2,320,0,7,3
+EF15,Wrap,Mediterranean Veggie Wrap,100.8,4.18,300,1,11,3
+EF16,Dessert,Chia Seed Pudding,80.5,4.35,220,1,10,4
+EF17,Dessert,Fruit Parfait,75.7,4.27,210,1,11,4
+EF18,Dessert,Almond Energy Balls,70.6,4.49,200,1,14,4
+EF19,Dessert,Coconut Yogurt,65.2,4.27,190,1,15,4
+EF20,Dessert,Dark Chocolate Bark,85.6,4.51,230,1,9,4

@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+SB1,Dosa,Ghee Roast Dosa,100.8,4.7,300,1,10,1
+SB2,Dosa,Paneer Dosa,120.8,4.6,350,1,9,1
+SB3,Dosa,Set Dosa,90.5,4.5,250,1,8,1
+SB4,Dosa,Ragi Dosa,110.6,4.8,320,1,7,1
+SB5,Dosa,Mushroom Dosa,130.3,4.4,280,1,8,1
+SB6,Idli,Sambar Idli,80.1,4.6,200,1,7,2
+SB7,Idli,Pongal Idli,90.1,4.5,220,1,6,2
+SB8,Idli,Mini Podi Idli,70.9,4.8,180,1,7,2
+SB9,Idli,Vada Idli,100.5,4.7,240,1,6,2
+SB10,Idli,Butter Idli,60.4,4.3,150,1,8,2
+SB11,Uttapam,Tomato Onion Uttapam,110.9,4.5,320,1,5,3
+SB12,Uttapam,Capsicum Uttapam,120.6,4.4,340,1,6,3
+SB13,Uttapam,Chilli Cheese Uttapam,130.5,4.6,360,1,7,3
+SB14,Uttapam,Rava Uttapam,140.4,4.7,380,1,8,3
+SB15,Uttapam,Tomato Chutney Uttapam,100.9,4.3,300,1,7,3
+SB16,Beverage,Madras Coffee,50.4,4.8,100,1,8,4
+SB17,Beverage,Adhirasam,40.2,4.7,80,1,9,4
+SB18,Beverage,Thandai,30.5,4.5,60,1,4,4
+SB19,Beverage,Sugarcane Juice,60.2,4.6,120,1,5,4
+SB20,Beverage,Neer Mor,70.2,4.4,150,1,6,4

@@ -1,0 +1,50 @@
+RestaurantId,RestaurantName,X,Y,Cuisine,Menu,Username,Password,ratings,no of times ordered
+bg1,burgerking1,0,0,burger,burgerkingloc1.csv,burgerkingfan123,Whopper123!,4.5,12
+bg2,burgerking2,0,0,burger,burgerkingloc2.csv,burgerkingfan124,Whopper124!,4.3,11
+md1,mcdonalds1,0,0,burger,mcdonalds_menu.csv,mcdkingfan123,Whopper123!,3.8,10
+md2,mcdonalds2,0,0,burger,mcdonalds_menu1.csv,mcdkingfan124,Whopper124!,3.7,9
+cb1,cheesyjuicyburgers1,0,0,burger,cheesyjuicyburgers_menu.csv,cjb124,cjbt124!,4.5,8
+cb2,cheesyjuicyburgers2,0,0,burger,cheesyjuicyburgers_menu1.csv,cjb124,cjbt124!,4.1,7
+bgk,burgerkingdom,0,0,burger,burgerkingdom_menu.csv,king05,@king,4.3,6
+dpz1,dominospizza1,0,0,pizza,dominos_menu.csv,dominosfan123,Dominos123!,4.7,5
+dpz2,dominospizza2,0,0,pizza,dominos_menu1.csv,dominosfan124,Dominos124!,4.8,4
+pzh1,pizzahut1,0,0,pizza,pizzahut_menu.csv,pizzahutfan123,PizzaHut123!,4.9,7
+pzh2,pizzahut2,0,0,pizza,pizzahut_menu1.csv,pizzahutfan124,PizzaHut124!,4.2,8
+pj1,papajohns1,0,0,pizza,papajohns_menu.csv,papajohnsfan123,PapaJohns123!,4.1,9
+pj2,papajohns2,0,0,pizza,papajohns_menu1.csv,papajohnsfan124,PapaJohns124!,3.7,8
+cp,cheezypizza,0,0,pizza,cheezypizza_menu.csv,cheezypizzafan123,CheezyPizza123!,4.5,6
+ms1,mansukhs1,0,0,North Indian,mansukhs_menu.csv,mansukhsfan123,Mansukhs123!,4.1,5
+ms2,mansukhs2,0,0,North Indian,mansukhs_menu1.csv,mansukhsfan124,Mansukhs124!,3.6,7
+pd1,pind1,0,0,North Indian,pind_menu.csv,pindfan123,Pind123!,3.9,7
+pd2,pind2,0,0,North Indian,pind_menu1.csv,pindfan124,Pind124!,4.3,8
+de1,delhi express1,0,0,North Indian,delhi_express_menu.csv,delhifan123,Delhi123!,4.6,10
+de2,delhie express2,0,0,North Indian,delhi_express_menu1.csv,delhifan124,Delhi124!,4.5,11
+dc,dhaba chat,0,0,North Indian,dhaba_chat_menu.csv,dhabafan123,Dhaba123!,4.7,12
+an1,al nassar1,0,0,Arabic,al_nassar_menu.csv,alnassarfan123,AlNassar123!,4.4,9
+an2,al nassar2,0,0,Arabic,al_nassar_menu1.csv,alnassarfan124,AlNassar124!,4.2,7
+ah1,al hilal1,0,0,Arabic,al_hilal_menu.csv,alhilalfan123,AlHilal123!,4.6,6
+ah2,al hilal2,0,0,Arabic,al_hilal_menu1.csv,alhilalfan124,AlHilal124!,4.8,8
+ak1,al kebabs1,0,0,Arabic,al_kebabs_menu.csv,alkebabsfan123,AlKebabs123!,4.3,9
+ak2,al kebabs2,0,0,Arabic,al_kebabs_menu1.csv,alkebabsfan124,AlKebabs124!,4.1,12
+as,al shebab,0,0,Arabic,al_shebab_menu.csv,alshebabfan123,AlShebab123!,4.5,4
+s1,sangeetha1,0,0,South Indian,sangeetha_menu.csv,sangeethafan123,Sangeetha123!,4,7
+s2,sangeetha2,0,0,South Indian,sangeetha_menu1.csv,sangeethafan124,Sangeetha124!,4.2,8
+sb1,saravana bhavan1,0,0,South Indian,saravanabhavan_menu.csv,saravanabhavanfan123,SaravanaBhavan123!,4.6,9
+sb2,saravana bhavan2,0,0,South Indian,saravanabhavan_menu1.csv,saravanabhavanfan124,SaravanaBhavan124!,4.5,12
+ab1,ananda bhavan1,0,0,South Indian,anandabhavan_menu.csv,anandabhavanfan123,AnandaBhavan123!,4.3,11
+ab2,ananda bhavan2,0,0,South Indian,anandabhavan_menu1.csv,anandabhavanfan124,AnandaBhavan124!,4.1,10
+vb,vasantha bhavan,0,0,South Indian,vasanthabhavan_menu.csv,vasanthabhavanfan123,VasanthaBhavan123!,4.7,9
+ef1,eatfit1,0,0,continental,eatfit_menu.csv,eatfitfan123,EatFit123!,4.4,7
+ef2,eatfit2,0,0,continental,eatfit_menu1.csv,eatfitfan124,EatFit124!,4.2,6
+ec1,english cusine1,0,0,continental,english_cusine_menu.csv,englishcusinefan123,EnglishCusine123!,4.6,8
+ec2,english cusine2,0,0,continental,english_cusine_menu1.csv,englishcusinefan124,EnglishCusine124!,4.5,9
+sb1,starbucks1,0,0,continental,starbucks_menu.csv,starbucksfan123,Starbucks123!,4.3,11
+sb2,starbucks2,0,0,continental,starbucks_menu1.csv,starbucksfan124,Starbucks124!,4.1,12
+vb,vital bowls,0,0,continental,vital_bowls_menu.csv,vitalbowlsfan123,VitalBowls123!,4.5,7
+cw1,chinese wok1,0,0,Chinese,chinese_wok_menu.csv,chinesewokfan123,ChineseWok123!,4.4,9
+cw2,chinese wok2,0,0,Chinese,chinese_wok_menu1.csv,chinesewokfan124,ChineseWok124!,4.2,4
+kfp1,kung fu panda1,0,0,Chinese,kung_fu_panda_menu1.csv,kungfupandafan123,KungFuPanda123!,4.6,6
+kfp2,kung fu panda2,0,0,Chinese,kung_fu_panda_menu2.csv,kungfupandafan124,KungFuPanda124!,4.5,8
+mc1,mainland china1,0,0,Chinese,mainland_china_menu.csv,mainlandchinafan123,MainlandChina123!,4.3,6
+mc2,mainland china2,0,0,Chinese,mainland_china_menu1.csv,mainlandchinafan124,MainlandChina124!,4.1,9
+pp,ping pong,0,0,Chinese,ping_pong_menu.csv,pingpongfan123,PingPong123!,4.7,9

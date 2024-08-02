@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+MN1,Roti,Tandoori Roti,20.8,4.5,100,1,11,1
+MN2,Roti,Butter Naan,30.6,4.6,120,1,10,1
+MN3,Roti,Garlic Naan,35.8,4.4,130,1,9,1
+MN4,Roti,Kulcha,25.4,4.3,110,1,8,1
+MN5,Roti,Missi Roti,25.9,4.7,110,1,7,1
+MN6,Curry,Paneer Butter Masala,150.2,4.8,300,1,6,2
+MN7,Curry,Chicken Tikka Masala,200.2,4.7,350,0,8,2
+MN8,Curry,Dal Makhani,120.7,4.6,250,1,9,2
+MN9,Curry,Palak Paneer,140.3,4.5,280,1,6,2
+MN10,Curry,Mutton Rogan Josh,220.1,4.6,380,0,8,2
+MN11,Biryani,Vegetable Biryani,130.9,4.4,400,1,9,3
+MN12,Biryani,Chicken Biryani,180.2,4.7,450,0,11,3
+MN13,Biryani,Mutton Biryani,220.2,4.8,500,0,10,3
+MN14,Biryani,Egg Biryani,150.1,4.5,420,1,9,3
+MN15,Biryani,Paneer Biryani,160.3,4.6,430,1,7,3
+MN16,Appetizer,Samosa,20.1,4.5,150,1,8,4
+MN17,Appetizer,Chicken Tikka,180.1,4.7,200,0,9,4
+MN18,Appetizer,Paneer Tikka,160.7,4.8,180,1,5,4
+MN19,Appetizer,Aloo Tikki,25.8,4.4,120,1,6,4
+MN20,Appetizer,Hara Bhara Kabab,40.5,4.6,130,1,7,4

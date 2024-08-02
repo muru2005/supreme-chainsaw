@@ -1,0 +1,167 @@
+﻿pp,Chinese,9500172818murar,PP7,PP3,PP10,PP5,PP2,PP15
+pp,Chinese,9500172818murar,PP12,PP8,PP17,PP11,PP4,PP15
+pp,Chinese,9500172818murar,PP14,PP19,PP3,PP9,PP14,PP6,PP18,PP15
+pp,Chinese,9500172818murar,PP16,PP20,PP7,PP10,PP7,PP20,PP1,PP13
+pp,Chinese,9500172818murar,PP4,PP12,PP6,PP3,PP19,PP8,PP12
+pp,Chinese,9381042816mahad,PP15,PP1,PP5,PP17,PP5,PP11,PP2,PP9,PP14
+pp,Chinese,9381042816mahad,PP9,PP11,PP13,PP6,PP8,PP10,PP4
+pp,Chinese,9381042816mahad,PP20,PP16,PP18,PP1,PP13,PP12,PP7,PP19,PP16,PP3
+pp,Chinese,9381042816mahad,PP5,PP10,PP15,PP18,PP11
+pp,Chinese,9381042816mahad,PP13,PP2,PP4,PP20,PP9,PP5,PP17
+pp,Chinese,9331092818aniru,PP17,PP7,PP12,PP4,PP3,PP10,PP8,PP14,PP6
+pp,Chinese,9331092818aniru,PP1,PP16,PP20,PP7,PP12
+pp,Chinese,9331092818aniru,PP6,PP18,PP4,PP15,PP1,PP16,PP13,PP19,PP5,PP2,PP18
+md1,burger,9500172818murar,mc20,mc5
+md1,burger,9381042818naren,mc10,mc19,mc7,mc15,
+md1,burger,9381042819ashis,mc5,mc12,mc16
+md1,burger,9500272818rahul,mc14,mc3
+md1,burger,9331092818aniru,mc6,mc2,mc11,mc18,mc14
+md2,burger,9381042816mahad,mc1,mc10,mc6,mc14
+md2,burger,7395957450kusha,mc6,mc20
+md2,burger,9500172818murar,mc10,mc17,mc4,mc1
+md2,burger,9381042818naren,mc3,mc8
+md2,burger,9381042819ashis,mc5,mc13,mc1
+bg1,burger,9500272818rahul,bk2,bk15,bk8,bk11,bk17
+bg1,burger,9331092818aniru,bk16,bk11
+bg1,burger,9381042816mahad,bk3,bk17,bk9
+bg1,burger,7395957450kusha,bk4,bk7,bk16,bk1
+bg1,burger,9500172818murar,bk7,bk3,bk6
+bg2,burger,9381042818naren,bk19,bk3,bk15,bk9,bk11
+bg2,burger,9381042819ashis,bk17,bk10,bk8,bk12
+bg2,burger,9500272818rahul,bk11,bk3,bk4
+bg2,burger,9331092818aniru,bk13,bk5
+bg2,burger,9381042816mahad,bk10,bk6,bk13
+pzh1,pizza,7395957450kusha,ph9,ph3,ph4
+pzh1,pizza,9500172818murar,ph6,ph10
+pzh1,pizza,9381042818naren,ph2,ph7,ph11
+pzh1,pizza,9381042819ashis,ph3,ph5,ph18,ph9
+pzh1,pizza,9500272818rahul,ph4,ph17
+pzh2,pizza,9331092818aniru,ph4,ph11,ph7
+pzh2,pizza,9381042816mahad,ph8,ph3,ph15,ph20
+pzh2,pizza,7395957450kusha,ph17,ph3,ph12
+pzh2,pizza,9500172818murar,ph13,ph2,ph6,ph18
+pzh2,pizza,9381042818naren,ph8,ph14
+pj1,pizza,9381042819ashis,pj14,pj3,pj10,pj6
+pj1,pizza,9500272818rahul,pj4,pj17
+pj1,pizza,9331092818aniru,pj19,pj2,pj16
+pj1,pizza,9381042816mahad,pj5,pj1,pj13
+pj1,pizza,7395957450kusha,pj6,pj10
+pj2,pizza,9500172818murar,pj4,pj11,pj7
+pj2,pizza,9381042818naren,pj3,pj5,pj16,pj9
+pj2,pizza,9381042819ashis,pj17,pj3,pj12
+pj2,pizza,9500272818rahul,pj4,pj7,pj11,pj14
+pj2,pizza,9331092818aniru,pj13,pj8,pj15,pj12,pj1
+ms1,North Indian,9381042816mahad,MN5,MN1,MN13
+ms1,North Indian,7395957450kusha,MN8,MN15,MN19
+ms1,North Indian,9500172818murar,MN14,MN3,MN10,MN6
+ms1,North Indian,9381042818naren,MN4,MN17
+ms1,North Indian,9381042819ashis,MN6,MN10
+ms2,North Indian,9500272818rahul,MN3,MN5,MN18,MN9
+ms2,North Indian,9331092818aniru,MN4,MN11,MN7
+ms2,North Indian,9381042816mahad,MN13,MN2,MN6,MN18
+ms2,North Indian,7395957450kusha,MN9,MN19
+ms2,North Indian,9500172818murar,MN17,MN3,MN12
+de1,North Indian,9381042818naren,DE17,DE3,DE12
+de1,North Indian,9381042819ashis,DE3,DE5,DE18,DE9
+de1,North Indian,9500272818rahul,DE6,DE10
+de1,North Indian,9331092818aniru,DE4,DE11,DE7
+de1,North Indian,9381042816mahad,DE13,DE2,DE6,DE18
+de2,North Indian,7395957450kusha,DE4,DE17
+de2,North Indian,9500172818murar,DE19,DE2,DE16
+de2,North Indian,9381042818naren,DE14,DE3,DE10,DE6
+de2,North Indian,9381042819ashis,DE5,DE1,DE13
+de2,North Indian,9500272818rahul,DE2,DE7,DE11
+ah1,Arabic,9331092818aniru,AH6,AH10
+ah1,Arabic,9381042816mahad,AH4,AH11,AH7
+ah1,Arabic,7395957450kusha,AH13,AH2,AH6,AH18
+ah1,Arabic,9500172818murar,AH17,AH3,AH12
+ah1,Arabic,9381042818naren,AH11,AH2,AH19,AH7
+ah2,Arabic,9381042819ashis,AH4,AH17
+ah2,Arabic,9500272818rahul,AH2,AH7,AH11
+ah2,Arabic,9331092818aniru,AH5,AH1,AH13
+ah2,Arabic,9381042816mahad,AH4,AH7,AH11,AH14
+ah2,Arabic,7395957450kusha,AH19,AH2,AH16
+an1,Arabic,9500172818murar,MN5,MN1,MN13
+an1,Arabic,9381042818naren,MN8,MN15,MN19
+an1,Arabic,9381042819ashis,MN14,MN3,MN10,MN6
+an1,Arabic,9500272818rahul,MN4,MN17
+an1,Arabic,9331092818aniru,MN6,MN10
+an2,Arabic,9381042816mahad,MN3,MN5,MN18,MN9
+an2,Arabic,7395957450kusha,MN4,MN11,MN7
+an2,Arabic,9500172818murar,MN13,MN2,MN6,MN18
+an2,Arabic,9381042818naren,MN9,MN19
+an2,Arabic,9381042819ashis,MN17,MN3,MN12
+s1,South Indian,9500272818rahul,SG4,SG11,SG7
+s1,South Indian,9331092818aniru,SG6,SG10
+s1,South Indian,9381042816mahad,SG11,SG2,SG19,SG7
+s1,South Indian,7395957450kusha,SG4,SG17
+s1,South Indian,9500172818murar,SG19,SG2,SG16
+s2,South Indian,9381042818naren,SG4,SG11,SG7
+s2,South Indian,9381042819ashis,SG13,SG2,SG6,SG18
+s2,South Indian,9500272818rahul,SG17,SG3,SG12
+s2,South Indian,9331092818aniru,SG8,SG3,SG15,SG20
+s2,South Indian,9381042816mahad,SG19,SG2
+ab1,South Indian,7395957450kusha,AB17,AB3,AB12
+ab1,South Indian,9500172818murar,AB13,AB2,AB6,AB18
+ab1,South Indian,9381042818naren,AB9,AB14,AB8,AB19,AB10
+ab1,South Indian,9381042819ashis,AB19,AB2,AB16
+ab1,South Indian,9500272818rahul,AB4,AB11,AB7
+ab2,South Indian,9331092818aniru,AB3,AB5,AB18,AB9
+ab2,South Indian,9381042816mahad,AB8,AB3,AB15,AB20
+ab2,South Indian,7395957450kusha,AB6,AB10
+ab2,South Indian,9500172818murar,AB12,AB20,AB1
+ab2,South Indian,9381042818naren,AB8,AB14,AB20
+ef1,continental,9381042819ashis,EF17,EF3,EF12
+ef1,continental,9500272818rahul,EF4,EF7,EF11,EF14
+ef1,continental,9331092818aniru,EF6,EF10
+ef1,continental,9381042816mahad,EF4,EF11,EF7
+ef1,continental,7395957450kusha,EF19,EF2,EF16
+ef2,continental,9500172818murar,EF9,EF14,EF8,EF19
+ef2,continental,9381042818naren,EF4,EF17
+ef2,continental,9381042819ashis,EF5,EF1,EF13
+ef2,continental,9500272818rahul,EF2,EF7,EF11
+ef2,continental,9331092818aniru,EF3,EF5,EF16,EF9
+ec1,continental,9381042816mahad,EC17,EC3,EC12
+ec1,continental,7395957450kusha,EC4,EC7,EC11,EC14
+ec1,continental,9500172818murar,EC6,EC10
+ec1,continental,9381042818naren,EC4,EC11,EC7
+ec1,continental,9381042819ashis,EC19,EC2,EC16
+ec2,continental,9500272818rahul,EC9,EC14,EC8,EC19
+ec2,continental,9331092818aniru,EC4,EC17
+ec2,continental,9381042816mahad,EC5,EC1,EC13
+ec2,continental,7395957450kusha,EC2,EC7,EC11
+ec2,continental,9500172818murar,EC3,EC5,EC16,EC9
+cw1,Chinese,9381042818naren,CW4,CW7,CW11,CW14
+cw1,Chinese,9381042819ashis,CW17,CW3,CW12
+cw1,Chinese,9500272818rahul,CW4,CW11,CW7
+cw1,Chinese,9331092818aniru,CW6,CW10
+cw1,Chinese,9381042816mahad,CW9,CW14,CW8,CW19
+cw2,Chinese,7395957450kusha,CW19,CW2,CW16
+cw2,Chinese,9500172818murar,CW5,CW1,CW13
+cw2,Chinese,9381042818naren,CW4,CW17
+cw2,Chinese,9381042819ashis,CW3,CW5,CW16,CW9
+cw2,Chinese,9500272818rahul,CW2,CW7,CW11
+mc1,Chinese,9331092818aniru,MC6,MC10
+mc1,Chinese,9381042816mahad,MC4,MC7,MC11,MC14
+mc1,Chinese,7395957450kusha,MC17,MC3,MC12
+mc1,Chinese,9500172818murar,MC9,MC14,MC8,MC19
+mc1,Chinese,9381042818naren,MC19,MC2,MC16
+mc2,Chinese,9381042819ashis,MC4,MC11,MC7
+mc2,Chinese,9500272818rahul,MC2,MC7,MC11
+mc2,Chinese,9331092818aniru,MC5,MC1,MC13
+mc2,Chinese,9381042816mahad,MC4,MC17
+mc2,Chinese,7395957450kusha,MC3,MC5,MC16,MC9
+pp,Chinese,9381042816mahad,PP1,PP15
+md2,burger,9381042816mahad,mc1,mc10
+cp,pizza,9381042816mahad,cp1
+vtb,continental,9381042816mahad,VB1
+pp,Chinese,9381042816mahad,PP1
+pp,Chinese,9381042813srira,PP1
+vtb,continental,9381042816mahad,VB1
+vtb,continental,9381042816mahad,VB1,VB7
+pp,Chinese,9381042816mahad,PP1,PP7
+pp,Chinese,9381042816mahad,PP1,PP7
+pp,Chinese,9381042816mahad,PP1
+pp,Chinese,9381042816mahad,PP1
+pp,Chinese,9381042816mahad,PP1,PP3
+pp,Chinese,9381042816mahad,PP1,PP7

@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+MC1,Starter,Chicken Manchurian,150.2,4.4,180,0,9,1
+MC2,Starter,Crispy Corn,120.8,4.3,160,1,10,1
+MC3,Starter,Honey Chili Potato,130.9,4.5,170,1,6,1
+MC4,Starter,Paneer Tikka,160.7,4.6,190,1,10,1
+MC5,Starter,Veg Spring Rolls,110.6,4.2,150,1,11,1
+MC6,Main Course,Veg Manchurian,180.5,4.7,220,1,11,2
+MC7,Main Course,Chicken Fried Rice,200.5,4.8,250,0,7,2
+MC8,Main Course,Chili Garlic Noodles,190.2,4.9,240,1,8,2
+MC9,Main Course,Veg Hakka Noodles,170.4,4.6,230,1,7,2
+MC10,Main Course,Chicken Manchow Soup,150.1,4.5,210,0,10,2
+MC11,Rice,Egg Fried Rice,120.8,4.2,180,1,11,3
+MC12,Rice,Burnt Garlic Fried Rice,130.3,4.3,190,1,6,3
+MC13,Rice,Schezwan Fried Rice,140.5,4.4,200,1,8,3
+MC14,Rice,Chicken Schezwan Rice,150.6,4.5,210,0,11,3
+MC15,Rice,Veg Schezwan Rice,160.1,4.6,220,1,8,3
+MC16,Dessert,Gulab Jamun,80.2,4.1,120,1,15,4
+MC17,Dessert,Rasgulla,100.9,4.3,150,1,9,4
+MC18,Dessert,Ice Cream Sundae,90.2,4.2,130,1,14,4
+MC19,Dessert,Chocolate Brownie,70.9,4,110,1,5,4
+MC20,Dessert,Fruit Custard,110.2,4.4,160,1,11,4

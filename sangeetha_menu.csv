@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+SG1,Dosa,Masala Dosa,90.5,4.6,300,1,10,1
+SG2,Dosa,Onion Rava Dosa,110.8,4.5,320,1,9,1
+SG3,Dosa,Paper Dosa,120.7,4.7,340,1,8,1
+SG4,Dosa,Plain Dosa,80.6,4.8,280,1,7,1
+SG5,Dosa,Egg Dosa,130.3,4.4,350,0,8,1
+SG6,Idli,Plain Idli,70.1,4.6,200,1,7,2
+SG7,Idli,Rava Idli,80.1,4.5,220,1,6,2
+SG8,Idli,Schezwan Idli,100.9,4.8,240,1,7,2
+SG9,Idli,Curd Idli,60.5,4.7,180,1,6,2
+SG10,Idli,Masala Idli,90.4,4.3,250,1,8,2
+SG11,Uttapam,Onion Uttapam,100.9,4.5,320,1,5,3
+SG12,Uttapam,Tomato Uttapam,110.6,4.4,340,1,6,3
+SG13,Uttapam,Mixed Veg Uttapam,120.5,4.6,360,1,7,3
+SG14,Uttapam,Cheese Uttapam,140.4,4.7,380,1,8,3
+SG15,Uttapam,Pizza Uttapam,100.9,4.3,300,1,7,3
+SG16,Beverage,Masala Chai,50.4,4.8,100,1,8,4
+SG17,Beverage,Badam Milk,40.2,4.7,80,1,9,4
+SG18,Beverage,Mango Lassi,30.5,4.5,60,1,4,4
+SG19,Beverage,Fresh Lime Soda,60.2,4.6,120,1,5,4
+SG20,Beverage,Filter Coffee,70.2,4.4,150,1,6,4

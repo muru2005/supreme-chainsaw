@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+CW1,Appetizer,Spring Rolls,120.7,4.5,150,1,10,1
+CW2,Appetizer,Chicken Satay,140.2,4.6,180,0,14,1
+CW3,Appetizer,Prawn Crackers,100.5,4.3,120,0,15,1
+CW4,Appetizer,Dim Sum Platter,160.4,4.7,200,1,14,1
+CW5,Appetizer,Hot and Sour Soup,90.6,4.4,130,1,6,1
+CW6,Main Course,Kung Pao Chicken,200.5,4.8,250,0,7,2
+CW7,Main Course,Sweet and Sour Pork,220.6,4.7,280,0,12,2
+CW8,Main Course,Beef with Broccoli,210.3,4.6,270,0,10,2
+CW9,Main Course,Vegetable Chow Mein,180.9,4.5,220,1,5,2
+CW10,Main Course,Shrimp Fried Rice,230.1,4.9,300,0,6,2
+CW11,Dessert,Fried Ice Cream,150.7,4.6,200,1,13,3
+CW12,Dessert,Mango Pudding,130.3,4.5,180,1,8,3
+CW13,Dessert,Almond Jelly,120.6,4.4,160,1,9,3
+CW14,Dessert,Sesame Balls,140.4,4.7,190,1,7,3
+CW15,Dessert,Fortune Cookies,80.7,4.2,120,1,11,3
+CW16,Momos,Chicken Momos,120.4,4.6,200,1,6,4
+CW17,Momos,Veg Momos,100.5,4.4,180,0,8,4
+CW18,Momos,Paneer Momos,130.3,4.7,210,1,14,4
+CW19,Momos,Pork Momos,140.7,4.5,220,0,12,4
+CW20,Momos,Tofu Momos,110.1,4.3,190,1,11,4

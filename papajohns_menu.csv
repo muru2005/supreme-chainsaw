@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+pj1,Pizza,Margherita,299.4,4.5,200,1,11,1
+pj2,Pizza,BBQ Chicken,549.8,4.7,300,1,12,1
+pj3,Pizza,Vegetarian,449.5,4.6,350,1,13,1
+pj4,Pizza,Chicken Tikka,499.4,4.8,400,0,14,1
+pj5,Pizza,Pepperoni,599.3,4.5,450,0,15,1
+pj6,Side,Garlic Parmesan Breadsticks,129.3,4.2,150,1,6,2
+pj7,Side,Cheese Sticks,99.1,4.1,120,1,7,2
+pj8,Side,Chicken Wings,149.4,4.3,200,0,8,2
+pj9,Side,Garlic Knots,119.6,4.4,180,1,9,2
+pj10,Side,Garden Salad,199.5,4.6,220,1,10,2
+pj11,Beverage,Pepsi,40.5,4.5,150,1,3,3
+pj12,Beverage,Coca-Cola,40.9,4.4,140,1,4,3
+pj13,Beverage,Mountain Dew,40.8,4.3,160,1,5,3
+pj14,Beverage,Sprite,50.6,4.2,130,1,7,3
+pj15,Beverage,Lemonade,50.6,4.1,170,1,8,3
+pj16,Dessert,Chocolate Chip Cookie,109.2,4.6,250,1,4,4
+pj17,Dessert,Cinnamon Pull Aparts,129.8,4.7,280,1,6,4
+pj18,Dessert,Double Chocolate Brownie,99.1,4.4,220,1,8,4
+pj19,Dessert,Apple Pie,89.8,4.3,240,1,9,4
+pj20,Dessert,Vanilla Ice Cream,79.6,4.2,200,1,10,4

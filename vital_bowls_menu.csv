@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+VB1,Starter,Caesar Salad,50.10,4.00,200,1,52,1
+VB2,Starter,Bruschetta,60.90,3.97,180,1,18,1
+VB3,Starter,Caprese Salad,70.60,4.58,220,1,16,1
+VB4,Starter,Garlic Bread,40.80,4.30,160,1,7,1
+VB5,Starter,Soup of the Day,55.20,4.68,180,1,12,1
+VB6,Main,Grilled Chicken Breast,150.20,4.80,350,0,15,2
+VB7,Main,Pasta Primavera,120.80,4.27,320,1,11,2
+VB8,Main,Beef Burger,180.80,4.60,400,0,8,2
+VB9,Main,Margherita Pizza,200.50,4.50,380,1,8,2
+VB10,Main,Vegetable Stir Fry,130.80,4.40,300,1,9,2
+VB11,Bowl,Quinoa Salad Bowl,100.50,4.40,300,1,14,3
+VB12,Bowl,Teriyaki Chicken Bowl,160.60,4.67,350,0,14,3
+VB13,Bowl,Falafel Bowl,140.30,4.60,320,1,9,3
+VB14,bowl,grill chicken bowl,90.60,4.50,280,0,10,3
+VB15,bowl,veg meat bowl,80.60,4.41,250,1,20,3
+VB16,Dessert,Cheesecake,70.60,4.60,250,1,9,4
+VB17,Dessert,Tiramisu,65.60,4.72,220,1,12,4
+VB18,Dessert,Chocolate Brownie,60.40,4.50,200,1,10,4
+VB19,Dessert,Fruit Salad,50.50,4.40,180,1,10,4
+VB20,Dessert,Vanilla Ice Cream,20.00,4.30,160,1,9,4

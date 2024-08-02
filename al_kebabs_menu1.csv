@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+AK1,Appetizer,Hummus with Pita,25.5,4.4,140,1,15,1
+AK2,Appetizer,Falafel Plate,35.9,4.7,170,1,14,1
+AK3,Appetizer,Fattoush Salad,30.5,4.6,110,1,13,1
+AK4,Appetizer,Moutabbal,35.1,4.5,150,1,12,1
+AK5,Appetizer,Spinach Fatayer,45.9,4.8,190,1,11,1
+AK6,Main,Shish Tawook,65.5,4.6,240,0,10,2
+AK7,Main,Lamb Kofta,110.2,4.8,320,0,9,2
+AK8,Main,Grilled Prawns,140.7,4.7,280,0,8,2
+AK9,Main,Vegetable Tagine,160.6,4.5,380,1,7,2
+AK10,Main,Stuffed Bell Peppers,130.9,4.4,350,1,6,2
+AK11,Rice,Chicken Machboos,90.4,4.5,380,0,10,3
+AK12,Rice,Lamb Mandi,130.1,4.7,420,0,11,3
+AK13,Rice,Vegetable Biryani,80.3,4.6,300,1,12,3
+AK14,Rice,Shrimp Kabsa,140.4,4.8,480,0,13,3
+AK15,Rice,Beef Maqluba,150.1,4.5,450,0,14,3
+AK16,Dessert,Knafeh,35.2,4.7,190,1,15,4
+AK17,Dessert,Umm Ali,40.3,4.6,210,1,16,4
+AK18,Dessert,Atayef,55.8,4.8,230,1,17,4
+AK19,Dessert,Mouhalabieh,50.2,4.5,260,1,18,4
+AK20,Dessert,Baklava Rolls,30.7,4.4,180,1,19,4

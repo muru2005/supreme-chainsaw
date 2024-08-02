@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+mc1,Burger,McAloo Tikki Burger,55.00,4.22,300,1,12,1
+mc2,Burger,McSpicy Paneer Burger,110.20,4.40,400,1,10,1
+mc3,Burger,McVeggie Burger,85.50,4.30,350,1,9,1
+mc4,Burger,McChicken Burger,90.60,4.10,380,0,8,1
+mc5,Burger,Chicken Maharaja Mac,180.70,4.50,550,0,7,1
+mc6,Appetizer,McAloo Tikki,40.60,4.00,200,1,6,2
+mc7,Appetizer,McNuggets (6 pieces),120.80,4.20,280,0,7,2
+mc8,Appetizer,Masala Wedges,60.50,4.10,220,1,8,2
+mc9,Appetizer,McWings (4 pieces),100.80,4.30,300,0,9,2
+mc10,Appetizer,McPaneer Pockets,80.70,4.38,250,1,12,2
+mc11,Drink,Coca-Cola,40.80,4.50,150,1,10,3
+mc12,Drink,Fanta,40.20,4.40,140,1,9,3
+mc13,Drink,McFloat,60.30,4.30,200,1,8,3
+mc14,Drink,Iced Tea,50.20,4.20,180,1,5,3
+mc15,Drink,Cold Coffee,70.10,4.10,220,1,6,3
+mc16,Dessert,Soft Serve Cone,25.70,4.00,120,1,8,4
+mc17,Dessert,McSwirl,45.90,4.10,180,1,7,4
+mc18,Dessert,McFlurry Oreo,65.40,4.30,250,1,9,4
+mc19,Dessert,Chocolate Brownie,55.70,4.20,220,1,10,4
+mc20,Dessert,Apple Pie,35.50,4.40,200,1,11,4

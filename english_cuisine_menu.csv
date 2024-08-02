@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+EC1,Starter,Caesar Salad,180.5,4.6,200,1,15,1
+EC2,Starter,Caprese Salad,160.9,4.5,180,1,14,1
+EC3,Starter,Garlic Bread,120.5,4.3,150,1,8,1
+EC4,Starter,Bruschetta,140.9,4.4,170,1,15,1
+EC5,Starter,Soup of the Day,150.1,4.2,160,1,13,1
+EC6,Main Course,Grilled Salmon,320.3,4.8,350,0,8,2
+EC7,Main Course,Beef Wellington,350.1,4.9,400,0,9,2
+EC8,Main Course,Roast Chicken,280.1,4.7,320,0,11,2
+EC9,Main Course,Vegetable Lasagna,250.3,4.5,280,1,15,2
+EC10,Main Course,Shepherd's Pie,270.1,4.6,300,1,7,2
+EC11,Pasta,Spaghetti Carbonara,200.3,4.6,250,0,7,3
+EC12,Pasta,Penne Arrabiata,180.8,4.5,220,1,7,3
+EC13,Pasta,Fettuccine Alfredo,220.5,4.7,280,1,14,3
+EC14,Pasta,Ravioli with Tomato Sauce,240.6,4.8,300,1,12,3
+EC15,Pasta,Linguine with Clams,230.2,4.6,270,0,6,3
+EC16,Dessert,Apple Pie,180.2,4.5,220,1,14,4
+EC17,Dessert,Chocolate Fondant,200.1,4.7,250,1,11,4
+EC18,Dessert,Cheesecake,190.1,4.6,230,1,10,4
+EC19,Dessert,Sticky Toffee Pudding,170.8,4.4,210,1,12,4
+EC20,Dessert,Creme Brulee,210.6,4.8,240,1,12,4

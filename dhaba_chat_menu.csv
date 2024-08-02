@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+DC1,Roti,Tandoori Roti,20.4,4.5,100,1,12,1
+DC2,Roti,Butter Naan,30.3,4.6,120,1,11,1
+DC3,Roti,Garlic Naan,35.9,4.4,130,1,10,1
+DC4,Roti,Roomali Roti,25.8,4.3,110,1,9,1
+DC5,Roti,Kulcha,25.3,4.7,110,1,8,1
+DC6,Curry,Paneer Tikka Masala,150.3,4.8,300,1,7,2
+DC7,Curry,Butter Chicken,200.6,4.7,350,0,8,2
+DC8,Curry,Chana Masala,120.9,4.6,250,1,6,2
+DC9,Curry,Aloo Gobi,140.6,4.5,280,1,9,2
+DC10,Curry,Chicken Curry,220.6,4.6,380,0,8,2
+DC11,Rice,Vegetable Pulao,100.4,4.4,400,1,7,3
+DC12,Rice,Chicken Biryani,180.4,4.7,450,0,9,3
+DC13,Rice,Jeera Rice,80.3,4.5,300,1,10,3
+DC14,Rice,Mutton Biryani,220.6,4.8,500,0,11,3
+DC15,Rice,Paneer Pulao,150.2,4.6,430,1,12,3
+DC16,Dessert,Gulab Jamun,40.5,4.5,200,1,13,4
+DC17,Dessert,Rasgulla,35.9,4.7,180,1,14,4
+DC18,Dessert,Kheer,50.5,4.8,220,1,11,4
+DC19,Dessert,Rasmalai,45.3,4.6,250,1,10,4
+DC20,Dessert,Jalebi,30.6,4.4,160,1,9,4

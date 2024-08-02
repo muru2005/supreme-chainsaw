@@ -1,0 +1,21 @@
+food_id,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+dp1,Pizza,Margherita,199.5,4.5,200,1,11,1
+dp2,Pizza,Farmhouse,399.5,4.4,300,1,10,1
+dp3,Pizza,Pepperoni,499.5,4.6,350,0,9,1
+dp4,Pizza,Veg Extravaganza,449.5,4.7,400,1,7,1
+dp5,Pizza,Chicken Golden Delight,549.5,4.3,450,0,8,1
+dp6,Side,Garlic Breadsticks,99.5,4.2,150,1,6,2
+dp7,Side,Cheesy Dip,49.5,4,80,1,5,2
+dp8,Side,Potato Wedges,129.5,4.3,200,1,8,2
+dp9,Side,Garlic Bread,79.5,4.1,120,1,9,2
+dp10,Side,Veg Parcel,89.5,4.4,180,1,11,2
+dp11,Beverage,Pepsi,40.5,4.5,150,1,12,3
+dp12,Beverage,Coca-Cola,40.5,4.4,140,1,13,3
+dp13,Beverage,Fanta,40.5,4.3,160,1,14,3
+dp14,Beverage,Lemonade,50.5,4.2,130,1,15,3
+dp15,Beverage,Iced Tea,50.5,4.1,170,1,11,3
+dp16,Dessert,Choco Lava Cake,109.5,4.6,250,1,10,4
+dp17,Dessert,Butterscotch Mousse Cake,119.5,4.5,280,1,9,4
+dp18,Dessert,Brownie Fantasy,99.5,4.4,220,1,7,4
+dp19,Dessert,Dutch Truffle,109.5,4.3,240,1,8,4
+dp20,Dessert,Black Forest,99.5,4.2,200,1,9,4

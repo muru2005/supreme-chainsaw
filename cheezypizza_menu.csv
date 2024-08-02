@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+cp1,Pizza,Classic Cheesepizza,150.80,4.47,500,1,12,1
+cp2,Pizza,Spicy Chicken pizza,180.30,4.70,550,0,10,1
+cp3,Pizza,Veggie Delight pizzaq,130.20,4.60,450,1,8,1
+cp4,Pizza,Double Bacon pizza,200.10,4.80,600,0,6,1
+cp5,Pizza,Mushroom Swiss pizza,170.90,4.40,520,1,7,1
+cp6,Side,French Fries,70.40,4.30,300,1,8,2
+cp7,Side,Onion Rings,90.50,4.20,350,1,9,2
+cp8,Side,Cheese Fries,100.80,4.50,400,1,6,2
+cp9,Side,Garlic Parmesan Fries,110.10,4.40,380,1,5,2
+cp10,Side,Sweet Potato Fries,120.60,4.60,350,1,7,2
+cp11,Beverage,Cola,50.40,4.00,200,1,8,3
+cp12,Beverage,Lemonade,60.40,4.20,180,1,9,3
+cp13,Beverage,Iced Tea,70.70,4.10,220,1,6,3
+cp14,Beverage,Milkshake,100.10,4.50,300,1,7,3
+cp15,Beverage,Orange Juice,80.10,4.30,250,1,8,3
+cp16,Dessert,Classic Chocolate Shake,120.30,4.60,350,1,9,4
+cp17,Dessert,Oreo Cookie Sundae,150.70,4.70,400,1,4,4
+cp18,Dessert,Caramel Brownie Sundae,140.30,4.50,380,1,5,4
+cp19,Dessert,New York Cheesecake,130.30,4.40,320,1,7,4
+cp20,Dessert,Apple Pie,110.30,4.30,300,1,9,4

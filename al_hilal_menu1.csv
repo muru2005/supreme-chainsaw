@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+AH1,Appetizer,Hummus,30.5,4.5,150,1,10,1
+AH2,Appetizer,Falafel,40.7,4.6,180,1,9,1
+AH3,Appetizer,Tabbouleh,35.5,4.4,120,1,8,1
+AH4,Appetizer,Baba Ganoush,40.1,4.3,160,1,7,1
+AH5,Appetizer,Kibbeh,50.9,4.7,200,0,6,1
+AH6,Main,Shawarma,70.7,4.5,250,0,5,2
+AH7,Main,Kebab Platter,120.3,4.8,350,1,7,2
+AH8,Main,Grilled Fish,150.2,4.7,300,0,8,2
+AH9,Main,Mansaf,180.1,4.6,400,1,9,2
+AH10,Main,Moussaka,160.9,4.4,320,1,10,2
+AH11,Rice,Mandi,100.8,4.4,400,1,8,3
+AH12,Rice,Kabsa,120.1,4.7,450,0,7,3
+AH13,Rice,Mujaddara,80.3,4.5,300,1,9,3
+AH14,Rice,Maqluba,140.4,4.8,500,0,7,3
+AH15,Rice,Roz Bukhari,150.1,4.6,430,1,8,3
+AH16,Dessert,Baklava,40.2,4.5,200,1,9,4
+AH17,Dessert,Kunafa,35.2,4.7,180,1,7,4
+AH18,Dessert,Basbousa,50.8,4.8,220,1,8,4
+AH19,Dessert,Halawet el Jibn,45.2,4.6,250,1,7,4
+AH20,Dessert,Qatayef,30.7,4.4,160,1,6,4

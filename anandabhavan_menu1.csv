@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+AB1,Dosa,Masala Dosa,85.6,4.7,300,1,11,1
+AB2,Dosa,Onion Rava Dosa,105.1,4.6,350,1,12,1
+AB3,Dosa,Plain Dosa,75.4,4.5,250,1,9,1
+AB4,Dosa,Mysore Masala Dosa,95.9,4.8,320,1,8,1
+AB5,Dosa,Paper Dosa,115.1,4.4,280,1,7,1
+AB6,Idli,Sambar Idli,65.8,4.6,200,1,9,2
+AB7,Idli,Pongal Idli,75.8,4.5,220,1,6,2
+AB8,Idli,Mini Idli,55.8,4.8,180,1,7,2
+AB9,Idli,Vada Idli,85.1,4.7,240,1,5,2
+AB10,Idli,Butter Idli,45.4,4.3,150,1,4,2
+AB11,Paratha,Aloo Paratha,90.2,4.5,350,1,5,3
+AB12,Paratha,Gobi Paratha,100.3,4.4,320,1,6,3
+AB13,Paratha,Paneer Paratha,110.9,4.6,380,1,6,3
+AB14,Paratha,Onion Paratha,80.4,4.7,300,1,5,3
+AB15,Paratha,Cheese Paratha,120.2,4.3,400,1,7,3
+AB16,Beverage,Filter Coffee,45.3,4.8,100,1,6,4
+AB17,Beverage,Masala Chai,35.6,4.7,80,1,8,4
+AB18,Beverage,Buttermilk,25.9,4.5,60,1,9,4
+AB19,Beverage,Fresh Lime Soda,55.5,4.6,120,1,8,4
+AB20,Beverage,Badam Milk,70.6,4.4,150,1,3,4

@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+KP1,Starter,Spring Rolls,100.7,4.3,150,1,8,1
+KP2,Starter,Prawn Crackers,80.3,4.2,120,0,5,1
+KP3,Starter,Chicken Satay,120.2,4.5,180,0,6,1
+KP4,Starter,Vegetable Dumplings,90.5,4.4,160,1,11,1
+KP5,Starter,Hot and Sour Soup,110.7,4.6,170,1,14,1
+KP6,Main Course,Kung Pao Chicken,180.2,4.7,250,0,7,2
+KP7,Main Course,Sweet and Sour Pork,200.7,4.8,280,0,6,2
+KP8,Main Course,Beijing Duck,250.6,4.9,350,0,11,2
+KP9,Main Course,Vegetable Chow Mein,150.7,4.5,220,1,11,2
+KP10,Main Course,Mapo Tofu,170.5,4.6,240,1,14,2
+KP11,Noodles,Chicken Hakka Noodles,160.9,4.4,230,0,15,3
+KP12,Noodles,Vegetable Chow Fun,140.1,4.3,210,1,10,3
+KP13,Noodles,Beef Lo Mein,180.5,4.6,250,0,13,3
+KP14,Noodles,Singapore Noodles,170.1,4.5,240,1,12,3
+KP15,Noodles,Shrimp Pad Thai,190.2,4.7,260,0,8,3
+KP16,Rice,Egg Fried Rice,120.2,4.2,180,0,14,4
+KP17,Rice,Yangzhou Fried Rice,130.9,4.3,190,1,5,4
+KP18,Rice,Pineapple Fried Rice,140.8,4.4,200,1,12,4
+KP19,Rice,Peking Duck Fried Rice,150.8,4.5,210,0,9,4
+KP20,Rice,Beef Yaki Onigiri,160.3,4.6,220,0,5,4

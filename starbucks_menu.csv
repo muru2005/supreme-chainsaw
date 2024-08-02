@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+SB1,Coffee,Caffè Americano,120.60,4.32,10,1,17,1
+SB2,Coffee,Cappuccino,140.70,4.50,20,1,6,1
+SB3,Coffee,Latte,150.80,4.70,30,1,14,1
+SB4,Coffee,Mocha,160.50,4.80,40,1,12,1
+SB5,Coffee,Espresso,100.70,4.40,5,1,6,1
+SB6,Tea,Chai Tea Latte,130.10,4.50,15,1,11,2
+SB7,Tea,Green Tea,110.80,4.30,10,1,10,2
+SB8,Tea,Iced Black Tea,120.60,4.40,20,1,11,2
+SB9,Tea,Iced Green Tea,130.20,4.60,25,1,6,2
+SB10,Tea,Iced Chai Tea Latte,140.80,4.64,30,1,7,2
+SB11,Frappuccino,Caramel Frappuccino,170.70,4.60,250,1,6,3
+SB12,Frappuccino,Java Chip Frappuccino,180.20,4.66,280,1,14,3
+SB13,Frappuccino,Mocha Frappuccino,160.60,4.50,260,1,10,3
+SB14,Frappuccino,Strawberries and Cream Frappuccino,190.60,4.78,300,1,14,3
+SB15,Frappuccino,Vanilla Bean Frappuccino,150.30,4.40,240,1,13,3
+SB16,Pastry,Croissant,90.70,4.20,200,1,11,4
+SB17,Pastry,Blueberry Muffin,100.70,4.30,220,1,12,4
+SB18,Pastry,Chocolate Chip Cookie,80.80,4.10,180,1,5,4
+SB19,Pastry,Apple Turnover,110.30,4.40,230,1,10,4
+SB20,Pastry,Cinnamon Roll,120.90,4.50,250,1,14,4

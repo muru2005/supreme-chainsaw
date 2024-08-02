@@ -1,0 +1,21 @@
+foodid,foodtype,foodname,price,rating,calories,veg,no_of_times_ordered,priority
+AS1,Appetizer,Baba Ganoush,30.5,4.3,150,1,18,1
+AS2,Appetizer,Labneh with Za'atar,35.7,4.5,160,1,17,1
+AS3,Appetizer,Stuffed Grape Leaves,40.8,4.6,170,1,16,1
+AS4,Appetizer,Arayes,45.2,4.4,180,0,15,1
+AS5,Appetizer,Fried Kibbeh,50.9,4.7,190,0,14,1
+AS6,Main,Chicken Shawarma Platter,70.5,4.6,250,0,13,2
+AS7,Main,Beef Shawarma Platter,75.3,4.7,270,0,12,2
+AS8,Main,Lamb Ouzi,120.1,4.8,350,1,11,2
+AS9,Main,Vegetable Couscous,140.6,4.6,380,1,10,2
+AS10,Main,Grilled Halloumi Salad,90.9,4.5,280,1,9,2
+AS11,Kebab,Lamb Kofta Kebab,110.4,4.7,400,0,8,3
+AS12,Kebab,Chicken Shish Kebab,130.1,4.6,420,0,7,3
+AS13,Kebab,Spicy Beef Kebab,80.3,4.5,300,0,6,3
+AS14,Kebab,Grilled Fish Skewers,140.4,4.8,480,0,5,3
+AS15,Kebab,Vegetable Kebab Platter,150.1,4.6,430,1,4,3
+AS16,Dessert,Kunafa with Cream,45.2,4.7,200,1,13,4
+AS17,Dessert,Baklava,40.3,4.6,190,1,12,4
+AS18,Dessert,Basbousa with Pistachio,50.8,4.8,220,1,11,4
+AS19,Dessert,Rose Water Mahalabiya,55.2,4.5,240,1,10,4
+AS20,Dessert,Date and Walnut Ma'amoul,30.7,4.4,170,1,9,4

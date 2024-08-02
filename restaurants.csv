@@ -1,0 +1,50 @@
+RestaurantId,RestaurantName,X,Y,Cuisine,Menu,Username,Password,Ratings,No of times ordered,offer,min_amount
+bg1,burgerking1,2,3,burger,burgerkingloc1.csv,burgerkingfan123,Whopper123!,4.10,34,20,100
+bg2,burgerking2,33,28,burger,burgerkingloc2.csv,burgerkingfan124,Whopper124!,4.69,14,20,100
+md1,mcdonalds1,27,31,burger,mcdonalds_menu.csv,mcdkingfan123,Whopper123!,3.80,10,30,300
+md2,mcdonalds2,8,8,burger,mcdonalds_menu1.csv,mcdkingfan124,Whopper124!,3.76,10,30,300
+cb1,cheesyjuicyburgers1,11,13,burger,cheesyjuicyburgers_menu.csv,cjb1243,cjbt124!,4.50,8,35,100
+cb2,cheesyjuicyburgers2,24,24,burger,cheesyjuicyburgers_menu1.csv,cjb124,cjbt124!,4.10,7,35,100
+bgk,burgerkingdom,14,19,burger,burgerkingdom_menu.csv,king05,@king,4.30,6,60,200
+dpz1,dominospizza1,2,16,pizza,dominos_menu.csv,dominosfan123,Dominos123!,4.70,5,20,100
+dpz2,dominospizza2,33,8,pizza,dominos_menu1.csv,dominosfan124,Dominos124!,4.80,4,20,100
+pzh1,pizzahut1,27,23,pizza,pizzahut_menu.csv,pizzahutfan123,PizzaHut123!,4.90,7,35,300
+pzh2,pizzahut2,8,2,pizza,pizzahut_menu1.csv,pizzahutfan124,PizzaHut124!,4.20,8,35,300
+pj1,papajohns1,12,26,pizza,papajohns_menu.csv,papajohnsfan123,PapaJohns123!,4.10,9,40,250
+pj2,papajohns2,19,11,pizza,papajohns_menu1.csv,papajohnsfan124,PapaJohns124!,3.70,8,40,250
+cp,cheezypizza,24,14,pizza,cheezypizza_menu.csv,cheezypizzafan123,CheezyPizza123!,4.50,7,50,150
+ms1,mansukhs1,3,8,North Indian,mansukhs_menu.csv,mansukhsfan123,Mansukhs123!,4.10,5,20,200
+ms2,mansukhs2,6,34,North Indian,mansukhs_menu1.csv,mansukhsfan124,Mansukhs124!,3.60,7,20,200
+pd1,pind1,12,23,North Indian,pind_menu.csv,pindfan123,Pind123!,3.90,7,30,150
+pd2,pind2,33,21,North Indian,pind_menu1.csv,pindfan124,Pind124!,4.30,8,30,150
+de1,delhi express1,27,14,North Indian,delhi_express_menu.csv,delhifan123,Delhi123!,4.60,10,40,300
+de2,delhi express2,24,26,North Indian,delhi_express_menu1.csv,delhifan124,Delhi124!,4.50,11,40,300
+dc,dhaba chat,16,1,North Indian,dhaba_chat_menu.csv,dhabafan123,Dhaba123!,4.70,12,20,100
+an1,al nassar1,1,13,Arabic,al_nassar_menu.csv,alnassarfan123,AlNassar123!,4.40,9,25,200
+an2,al nassar2,34,1,Arabic,al_nassar_menu1.csv,alnassarfan124,AlNassar124!,4.20,7,25,200
+ah1,al hilal1,27,7,Arabic,al_hilal_menu.csv,alhilalfan123,AlHilal123!,4.60,6,30,300
+ah2,al hilal2,23,18,Arabic,al_hilal_menu1.csv,alhilalfan124,AlHilal124!,4.80,8,30,300
+ak1,al kebabs1,18,33,Arabic,al_kebabs_menu.csv,alkebabsfan123,AlKebabs123!,4.30,9,45,250
+ak2,al kebabs2,13,7,Arabic,al_kebabs_menu1.csv,alkebabsfan124,AlKebabs124!,4.10,12,45,250
+as,al shebab,7,21,Arabic,al_shebab_menu.csv,alshebabfan123,AlShebab123!,4.50,4,30,200
+s1,sangeetha1,2,22,South Indian,sangeetha_menu.csv,sangeethafan123,Sangeetha123!,4.00,7,35,150
+s2,sangeetha2,7,13,South Indian,sangeetha_menu1.csv,sangeethafan124,Sangeetha124!,4.20,8,35,150
+sb1,saravana bhavan1,13,3,South Indian,saravanabhavan_menu.csv,saravanabhavanfan123,SaravanaBhavan123!,4.19,14,25,200
+sb2,saravana bhavan2,17,9,South Indian,saravanabhavan_menu1.csv,saravanabhavanfan124,SaravanaBhavan124!,4.51,13,25,200
+ab1,ananda bhavan1,22,31,South Indian,anandabhavan_menu.csv,anandabhavanfan123,AnandaBhavan123!,4.30,11,30,120
+ab2,ananda bhavan2,28,18,South Indian,anandabhavan_menu1.csv,anandabhavanfan124,AnandaBhavan124!,4.10,10,30,120
+vb,vasantha bhavan,32,26,South Indian,vasanthabhavan_menu.csv,vasanthabhavanfan123,VasanthaBhavan123!,4.64,11,25,300
+ef1,eatfit1,1,27,continental,eatfit_menu.csv,eatfitfan123,EatFit123!,4.41,10,35,200
+ef2,eatfit2,9,19,continental,eatfit_menu1.csv,eatfitfan124,EatFit124!,4.20,6,35,200
+ec1,english cusine1,12,31,continental,english_cuisine_menu.csv,englishcusinefan123,EnglishCusine123!,4.60,8,40,400
+ec2,english cusine2,17,24,continental,english_cuisine_menu1.csv,englishcusinefan124,EnglishCusine124!,4.11,13,40,400
+sb1,starbucks1,23,6,continental,starbucks_menu.csv,starbucksfan123,Starbucks123!,4.30,11,25,120
+sb2,starbucks2,28,4,continental,starbucks_menu1.csv,starbucksfan124,Starbucks124!,4.10,12,25,120
+vtb,vital bowls,31,11,continental,vital_bowls_menu.csv,vitalbowlsfan123,VitalBowls123!,4.13,61,30,300
+cw1,chinese wok1,2,32,Chinese,chinese_wok_menu.csv,chinesewokfan123,ChineseWok123!,4.37,10,35,200
+cw2,chinese wok2,8,29,Chinese,chinese_wok_menu1.csv,chinesewokfan124,ChineseWok124!,4.20,4,35,200
+kfp1,kung fu panda1,14,16,Chinese,kung_fu_panda_menu1.csv,kungfupandafan123,KungFuPanda123!,4.60,6,50,130
+kfp2,kung fu panda2,31,19,Chinese,kung_fu_panda_menu2.csv,kungfupandafan124,KungFuPanda124!,4.50,8,50,130
+mc1,mainland china1,29,34,Chinese,mainland_china_menu.csv,mainlandchinafan123,MainlandChina123!,4.30,6,20,200
+mc2,mainland china2,24,4,Chinese,mainland_china_menu1.csv,mainlandchinafan124,MainlandChina124!,4.10,9,20,200
+pp,ping pong,18,26,Chinese,ping_pong_menu.csv,pingpongfan123,PingPong123!,3.02,34,45,250
